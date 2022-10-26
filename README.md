@@ -1,4 +1,4 @@
-Blog Sederhana Menggunakan laravel Blade serta Laravel UI
+<h1>Blog Sederhana Menggunakan laravel Blade serta Laravel UI</h1>
 
 ## Fitur 
 
